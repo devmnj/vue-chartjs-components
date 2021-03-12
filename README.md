@@ -43,6 +43,15 @@ Pie Chart
 Doughnut Chart
 <img src=screenshots\vue-ch2.png/>  
 
+Radar Chart
+<img src=screenshots\radarchart.png/>  
+
+Polar Chart
+<img src=screenshots\polarchart.png/>  
+
+Horizontal Bar Chart
+<img src=screenshots\HBarchart.png/>  
+
 ### More on developer site
 For more guides and samples 
 See [Manoj's Developer Blog](https://developermblog.wordpress.com/).

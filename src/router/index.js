@@ -4,6 +4,12 @@ import LineChart from "../views/Line.vue";
 import Doughnut from "../views/Doughnut.vue";
 import BarChart from "../views/Bar.vue";
 import PieChart from "../views/Pie.vue";
+import HBar from "../views/HBar.vue";
+import PolarArea from "../views/PolarAreaChart.vue";
+import Radar from "../views/Radar.vue";
+import Buble from "../views/Buble.vue";
+import Scatter from "../views/Scatter.vue";
+
 
 Vue.use(VueRouter);
 
@@ -17,6 +23,35 @@ const routes = [
     path: "/pie",
     name: "Pie",
     component: PieChart,
+  },
+  {
+    path: "/scatter",
+    name: "Scatter",
+    component: Scatter,
+  },
+  {
+    path: "/hbar",
+    name: "HBar",
+    component: HBar,
+
+  },
+   {
+    path: "/buble",
+    name: "Buble",
+    component: Buble,
+
+  },
+  {
+    path: "/radar",
+    name: "radar",
+    component: Radar,
+
+  },
+  {
+    path: "/polararea",
+    name: "PolarArea",
+    component:PolarArea,
+
   },
   {
     path: "/bar",

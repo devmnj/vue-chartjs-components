@@ -3,8 +3,12 @@
     <div id="nav">
       <router-link to="/">Line Chart</router-link> 
       |
+      <router-link to="/scatter">Scatter Chart</router-link> |
+      <router-link to="/radar">Radar Chart</router-link> |
       <router-link to="/Bar">Bar Chart</router-link> |
-        
+      <router-link to="/buble">Buble Chart</router-link> |
+      <router-link to="/hBar">Horizontal Bar Chart</router-link> |  
+      <router-link to="/polararea">Polar Area Chart</router-link> |  
       <router-link to="/Pie">Pie Chart</router-link>  |
       <router-link to="/doughnut">Donughnut Chart</router-link> |
       <router-link to="/about">About</router-link>
