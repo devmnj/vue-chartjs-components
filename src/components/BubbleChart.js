@@ -1,9 +1,9 @@
-import { Buble, mixins } from 'vue-chartjs'
+import { Bubble, mixins } from 'vue-chartjs'
 
 export default {
-  extends: Buble,  
+  extends: Bubble,  
   mixins: [mixins.reactiveProp],
-  name: 'BubleChart',
+  name: 'BubbleChart',
   props: [{
     chartdata: {
       type: Object,

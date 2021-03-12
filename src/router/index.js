@@ -7,7 +7,7 @@ import PieChart from "../views/Pie.vue";
 import HBar from "../views/HBar.vue";
 import PolarArea from "../views/PolarAreaChart.vue";
 import Radar from "../views/Radar.vue";
-import Buble from "../views/Buble.vue";
+import Bubble from "../views/Bubble.vue";
 import Scatter from "../views/Scatter.vue";
 
 
@@ -36,9 +36,9 @@ const routes = [
 
   },
    {
-    path: "/buble",
-    name: "Buble",
-    component: Buble,
+    path: "/bubble",
+    name: "Bubble",
+    component: Bubble,
 
   },
   {

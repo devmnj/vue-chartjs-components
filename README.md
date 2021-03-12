@@ -52,6 +52,12 @@ Polar Chart
 Horizontal Bar Chart
 <img src=screenshots\HBarchart.png/>  
 
+Scatter Chart
+<img src=screenshots\scatter.png/>  
+
+Bubble Chart
+<img src=screenshots\bubble.png/>  
+
 ### More on developer site
 For more guides and samples 
 See [Manoj's Developer Blog](https://developermblog.wordpress.com/).
